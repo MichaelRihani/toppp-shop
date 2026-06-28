@@ -1,0 +1,95 @@
+{
+  "category": {
+    "id": "cat_gaming_desktop",
+    "slug": "gaming-desktop",
+    "name": "Gaming desktop",
+    "status": "sample"
+  },
+  "recommendations": [
+    {
+      "id": "rec_gaming_desktop_budget",
+      "bucket": "Best Budget",
+      "product": {
+        "id": "prod_sample_budget_pc",
+        "brand": "Sample Brand",
+        "name": "Budget Gaming Desktop",
+        "image_url": "https://example.com/images/budget-gaming-desktop.jpg"
+      },
+      "offer": {
+        "retailer": "Amazon",
+        "price": 849,
+        "currency": "USD",
+        "availability": "unknown",
+        "affiliate_url": "https://example.com/affiliate/budget"
+      },
+      "summary": "A sensible entry point for 1080p gaming when price matters.",
+      "pros": [
+        "Modern GPU class for mainstream games",
+        "Enough memory and storage for a clean first setup",
+        "Leaves budget for a monitor or accessories"
+      ],
+      "cons": [
+        "Not aimed at serious 4K gaming",
+        "Case and cooling quality can vary",
+        "Upgrade path may be limited"
+      ]
+    },
+    {
+      "id": "rec_gaming_desktop_value",
+      "bucket": "Best for Most People",
+      "product": {
+        "id": "prod_sample_value_pc",
+        "brand": "Sample Brand",
+        "name": "Mainstream Gaming Desktop",
+        "image_url": "https://example.com/images/value-gaming-desktop.jpg"
+      },
+      "offer": {
+        "retailer": "Amazon",
+        "price": 1099,
+        "currency": "USD",
+        "availability": "unknown",
+        "affiliate_url": "https://example.com/affiliate/value"
+      },
+      "summary": "The best balance of price, recognizable support, and everyday gaming performance.",
+      "pros": [
+        "Strong fit for 1080p and lighter 1440p gaming",
+        "Better balance of parts and price",
+        "Easy retailer path for shipping and returns"
+      ],
+      "cons": [
+        "Exact configurations still need checking",
+        "Fans may be audible under load",
+        "Premium buyers may want more GPU headroom"
+      ]
+    },
+    {
+      "id": "rec_gaming_desktop_upgrade",
+      "bucket": "Best Upgrade",
+      "product": {
+        "id": "prod_sample_upgrade_pc",
+        "brand": "Sample Brand",
+        "name": "Upgrade Gaming Desktop",
+        "image_url": "https://example.com/images/upgrade-gaming-desktop.jpg"
+      },
+      "offer": {
+        "retailer": "Best Buy",
+        "price": 2199,
+        "currency": "USD",
+        "availability": "unknown",
+        "affiliate_url": "https://example.com/affiliate/upgrade"
+      },
+      "summary": "A premium prebuilt for buyers who want smoother performance and better build quality.",
+      "pros": [
+        "Better fit for 1440p gaming",
+        "More memory and storage headroom",
+        "Cleaner build quality and future upgrade potential"
+      ],
+      "cons": [
+        "Large price jump from the mainstream pick",
+        "Overkill for casual 1080p players",
+        "Availability can change quickly"
+      ]
+    }
+  ],
+  "disclosure": "This sample is for public case-study purposes and does not represent final researched recommendations."
+}
