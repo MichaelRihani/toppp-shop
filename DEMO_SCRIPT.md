@@ -10,7 +10,7 @@ The product is designed around trust: no sponsored rankings, no ads, affiliate d
 
 ## 2-Minute Walkthrough
 
-1. Open [toppp-shop.vercel.app](https://toppp-shop.vercel.app).
+1. Open [toppp.shop](https://toppp.shop).
 2. Point out the search-first interface.
 3. Explain that Toppp is for busy shoppers who want a trusted shortcut.
 4. Click the live example product page.

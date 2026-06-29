@@ -30,7 +30,7 @@ Toppp is a prototype shopping answer engine that returns the three product picks
 
 It explores how AI can support trusted consumer decision-making through structured product data, editorial controls, affiliate transparency, and future commerce readiness.
 
-- Live demo: https://toppp-shop.vercel.app
+- Live demo: https://toppp.shop
 - Case study: ./toppp/README.md
 ```
 

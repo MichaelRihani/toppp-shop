@@ -24,9 +24,9 @@ Toppp is designed as an answer layer before checkout:
 
 ## Public Demo
 
-Live prototype: [toppp-shop.vercel.app](https://toppp-shop.vercel.app)
+Live prototype: [toppp.shop](https://toppp.shop)
 
-Example route: [Best Gaming Desktops](https://toppp-shop.vercel.app/best/gaming-desktop)
+Example route: [Best Gaming Desktops](https://toppp.shop/best/gaming-desktop)
 
 Note: The current public demo uses sample editorial data to demonstrate the product experience and data model. Production recommendations would require a formal evidence and review workflow before publication.
 
